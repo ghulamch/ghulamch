@@ -1,4 +1,4 @@
-I am a student who needs to study
+I am a student who needs to study deeper
 
 - 👋 Hi, I’m @ghulamch
 
