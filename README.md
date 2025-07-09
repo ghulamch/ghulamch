@@ -25,8 +25,6 @@
 
 ###
 
-![Header](./img/header.png)
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
