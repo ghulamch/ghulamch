@@ -1,5 +1,3 @@
-![Header](./img/header.png)
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -26,6 +24,8 @@
 <h1 align="center">Hello World! 👋</h1>
 
 ###
+
+![Header](./img/header.png)
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -85,12 +85,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ghulamch&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/ghulamch/ghulamch/output/snake.svg" alt="Snake animation" />
-
-##### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
