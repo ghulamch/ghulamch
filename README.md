@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Ghulam<br><br>- 🔭 I am a student at UPN "Veteran" Jawa Timur, Department of Informatics<br>- 📚 I'm currently learning about full stack developer<br>- ⚡ In my free time I watching video</p>
+<p align="left">I'm Ghulam<br><br>- 🔭 I am a student at UPN "Veteran" Jawa Timur, Department of Informatics<br>- 📚 I'm currently learning about full stack developer</p>
 
 ###
 
