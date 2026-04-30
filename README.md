@@ -82,10 +82,10 @@
 ###
 
 <div align="left">
-  <a href="https://trakteer.id/USERNAME_TRAKTEER_KAMU/tip" target="_blank">
+  <!-- <a href="https://trakteer.id/ghulamin_chalim_alwi/tip" target="_blank">
     <img src="https://img.shields.io/badge/Trakteer-ED2939?style=for-the-badge&logo=ko-fi&logoColor=white" height="30" alt="Trakteer" />
-  </a>
-  <!-- <a href="https://saweria.co/USERNAME_SAWERIA_KAMU" target="_blank">
-    <img src="https://img.shields.io/badge/Saweria-FFB600?style=for-the-badge&logo=buymeacoffee&logoColor=white" height="30" alt="Saweria" />
   </a> -->
+  <a href="https://saweria.co/ghulamc" target="_blank">
+    <img src="https://img.shields.io/badge/Saweria-FFB600?style=for-the-badge&logo=buymeacoffee&logoColor=white" height="30" alt="Saweria" />
+  </a>
 </div>
