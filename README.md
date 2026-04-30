@@ -75,3 +75,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
 </div>
 
+###
+
+<h3 align="left">☕ Support Me</h3>
+
+###
+
+<div align="left">
+  <a href="https://trakteer.id/USERNAME_TRAKTEER_KAMU/tip" target="_blank">
+    <img src="https://img.shields.io/badge/Trakteer-ED2939?style=for-the-badge&logo=ko-fi&logoColor=white" height="30" alt="Trakteer" />
+  </a>
+  <!-- <a href="https://saweria.co/USERNAME_SAWERIA_KAMU" target="_blank">
+    <img src="https://img.shields.io/badge/Saweria-FFB600?style=for-the-badge&logo=buymeacoffee&logoColor=white" height="30" alt="Saweria" />
+  </a> -->
+</div>
